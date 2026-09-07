@@ -1,0 +1,15 @@
+:root{color-scheme:light dark}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC",system-ui,sans-serif;
+  max-width:720px;margin:0 auto;padding:48px 24px 96px;line-height:1.8;color:#2F3E3A;background:#F7F5F2}
+h1{font-size:1.6rem;letter-spacing:.03em}
+h2{font-size:1.15rem;margin-top:2.4em;letter-spacing:.02em;color:#577371}
+table{border-collapse:collapse;width:100%;margin:1.2em 0;font-size:.92rem}
+td,th{border:1px solid rgba(47,62,58,.15);padding:8px 10px;text-align:left;vertical-align:top}
+th{background:rgba(87,115,113,.08)}
+a{color:#577371}
+.meta{color:rgba(47,62,58,.5);font-size:.85rem}
+.brand{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.brand .dot{width:14px;height:14px;border-radius:50%;background:#E6B079}
+nav{margin:24px 0 40px;font-size:.9rem}
+nav a{margin-right:16px}
+blockquote{border-left:3px solid #E6B079;margin:1em 0;padding:.2em 1em;background:rgba(230,176,121,.08);color:rgba(47,62,58,.75)}
